@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Somil-Gupta, a recent graduate from IIT Kharagpur and an incoming digital consultant at Accenture Japan
-- 👀 I’m interested in Machine Learning, Finance and Development
-- 🌱 I’m currently learning Springboot and React
+- 👋 Hi, I’m @Somil-Gupta, a 2021 graduate from IIT Kharagpur and currently a software developer Accenture Japan
+- 👀 I’m interested in Machine Learning, Qaunt Finance and Software Development
+- 🌱 I have worked as LLM Engineer, Full Stack Engineer and MLOps Engineer
+- 📫 My tech stack is: Python, FastAPI, NextJS, Langchain, Postgres, MongoDB, Docker, Kubernetes, Pytorch, AWS, Azure, SQL and Redis
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me somil2760@gmail.com
 
